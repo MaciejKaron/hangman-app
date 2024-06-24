@@ -1,2 +1,2 @@
 # hangman-app
-![Moje zdjęcie](./images/review.jpg)
+![Moje zdjęcie](hangman/images/review.png)
