@@ -1,2 +1,2 @@
 # hangman-app
-mobile hangman game
+![Moje zdjęcie](./images/review.jpg)
