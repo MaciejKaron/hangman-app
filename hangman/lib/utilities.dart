@@ -1,0 +1,97 @@
+import 'package:flutter/material.dart';
+
+TextStyle coolStyle(double size, [Color? color, FontWeight? fw]) {
+  return TextStyle(
+      fontFamily: 'test', color: color, fontSize: size, fontWeight: fw);
+}
+
+List<String> letters = [
+  'A',
+  'B',
+  'C',
+  'D',
+  'E',
+  'F',
+  'G',
+  'H',
+  'I',
+  'J',
+  'K',
+  'L',
+  'M',
+  'N',
+  'O',
+  'P',
+  'Q',
+  'R',
+  'S',
+  'T',
+  'U',
+  'V',
+  'W',
+  'X',
+  'Y',
+  'Z'
+];
+
+List passwordsList = [
+  'ASSEMBLY',
+  'BASH',
+  'CSHARP',
+  'DATALOG',
+  'EULER',
+  'FANTOM',
+  'GAMEMONKEY/SCRIPT',
+  'HIGH/LEVEL/ASSEMBLY',
+  'ICON',
+  'JAVA',
+  'JAVASCRIPT',
+  'KOTLIN',
+  'LOTUSSCRIPT',
+  'MICROCODE',
+  'NEWSPEAK',
+  'OPENVERA',
+  'POWERSHELL',
+  'PPYTHON',
+  'QUANTUM/COMPUTATION/LANGUAGE',
+  'RAPID',
+  'SMALLTALK',
+  'SCRATCH',
+  'TYPESCRIPT',
+  'UNREALSCRIPT',
+  'VISUAL/FOXPRO',
+  'WYVERN',
+  'YORICK',
+  'Z/SHELL'
+];
+
+List passwordListv2 = [
+  'ASSEMBLY',
+  'BASH',
+  'CSHARP',
+  'DATALOG',
+  'EULER',
+  'FANTOM',
+  'GAMEMONKEY/SCRIPT',
+  'HIGH/LEVEL/ASSEMBLY',
+  'ICON',
+  'JAVA',
+  'JAVASCRIPT',
+  'KOTLIN',
+  'LOTUSSCRIPT',
+  'MICROCODE',
+  'NEWSPEAK',
+  'OPENVERA',
+  'POWERSHELL',
+  'PPYTHON',
+  'QUANTUM/COMPUTATION/LANGUAGE',
+  'RAPID',
+  'SMALLTALK',
+  'SCRATCH',
+  'TYPESCRIPT',
+  'UNREALSCRIPT',
+  'VISUAL/FOXPRO',
+  'WYVERN',
+  'YORICK',
+  'Z/SHELL'
+];
